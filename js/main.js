@@ -1,4 +1,4 @@
-// import _ from 'lodash' // From `node_modeles`!
+import _ from 'lodash' // From `node_modeles`!
 // import checkType from './getType' // getType.js
 // //import { random, user as git } from './getRandom' // getRandom.js
 // import * as A from './getRandom'
@@ -15,3 +15,4 @@
 //몇개를 내보내던지 전혀 상관없다.
 //기본통로는 하나의 데이터만 내보낼 수 있다.
 //이름을 지정한 통로 지정하지 않은 통로 같이 쓸수 있다
+
